@@ -1,0 +1,3 @@
+#!/bin/bash
+printf "%.2f" $NUM | sort
+100-decimal_to_hexadecimal
